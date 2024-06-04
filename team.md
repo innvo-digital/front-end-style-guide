@@ -1,6 +1,6 @@
 # Innvo team
 
-> É novo na Innvo? Abra um Pull Request para atualizar suas informações n nosso time
+> É novo na Innvo? Abra um Pull Request para atualizar suas informações do nosso time
 
 Saiba com quem poderia tirar uma dúvida, dar uma sugestão, e etc… Esse quadro serve para facilitar nossas conversas entre os diversos times dentro da empresa
 

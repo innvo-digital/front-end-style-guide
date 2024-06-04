@@ -58,7 +58,7 @@ Para fazer o clone dos repositórios recomendamos a utilização de [**chaves ss
 
 ## Comunication
 
-Nosso meio de comunicação oficial é o [**Google Chat**](https://mail.google.com/chat). Através do Google Chat você terá informações sobre a Innvo de comunicados internos, alinhamentos do time, interação entre áreas e etc...
+Nosso meio de comunicação oficial é o **Google Chat** ([web](https://mail.google.com/chat) | [android](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=pt_BR) | [ios](https://apps.apple.com/br/app/google-chat/id1163852619)). Através do Google Chat você terá informações sobre a Innvo de comunicados internos, alinhamentos do time, interação entre áreas e etc...
 
 Caso não tenha acesso a um desses canais, entre em contato com o seu gestor
 
